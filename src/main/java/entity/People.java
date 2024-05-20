@@ -12,6 +12,7 @@ public class People {
         System.out.println("test7");
         System.out.println("시연 test");
         System.out.println("시연 test2");
+        System.out.println("시연 test3");
 
 
     }
