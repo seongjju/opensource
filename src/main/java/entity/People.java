@@ -11,9 +11,7 @@ public class People {
         System.out.println("test6");
         System.out.println("test7");
         System.out.println("시연 test 입니다.");
-        System.out.println("시연 test 입니다2.");
-        System.out.println("시연 test 입니다3.");
-        System.out.println("시연 test 입니다4.");
+
 
 
 
